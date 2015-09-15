@@ -126,6 +126,7 @@ Modify your ``settings.py`` to integrate ``python-logstash`` with Django's loggi
 Note
 ====
 
+
 Example Logstash Configuration (``logstash.conf``) for Receiving Events from python-logstash is::
 
   input {
